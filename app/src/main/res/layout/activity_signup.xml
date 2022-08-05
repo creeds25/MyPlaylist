@@ -13,7 +13,7 @@
         android:textAlignment="center"
         android:layout_gravity="center"
         android:paddingTop="10dp"
-
+        android:layout_marginTop = "30dp"
         android:paddingBottom="20dp"
         android:text="MyPlayList"
         android:textSize="30sp"
@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Full Name"
+        android:layout_marginTop = "30dp"
         android:inputType="textPersonName" />
 
     <EditText
@@ -33,6 +34,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Age"
+        android:layout_marginTop = "30dp"
         android:inputType="textPersonName" />
 
     <EditText
@@ -41,6 +43,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Email Address"
+        android:layout_marginTop = "30dp"
         android:inputType="textEmailAddress" />
 
     <EditText
@@ -49,6 +52,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Password"
+        android:layout_marginTop = "30dp"
         android:inputType="textPassword" />
 
     <Button
@@ -56,5 +60,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
+        android:layout_marginTop = "30dp"
         android:text="SignUp" />
 </LinearLayout>
