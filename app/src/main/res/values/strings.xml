@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyPlayList</string>
+    <string name="welcome_to_myplaylist">Welcome to MyPlayList</string>
 </resources>
